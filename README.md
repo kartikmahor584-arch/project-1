@@ -1,6 +1,6 @@
 # project-1
 👋 Hi, I'm Kartik
-🚀 Machine Learning Enthusiast | 🧠 Python Developer | ⚙️ VS Code Lover
+🚀 Machine Learning Enthusiast | 🧠 Python  | ⚙️ VS Code Lover
 
 Welcome to my GitHub!
 I’m passionate about building smart solutions using Python and exploring the world of Machine Learning. I enjoy turning ideas into working models and learning new concepts along the way.
